@@ -1,0 +1,28 @@
+body
+{
+background-image: linear-gradient(to right top, #12852e, #2fa556, #18c034, #b8bb1a, #fffc3c);
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+h5{
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+h3{
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+h4{
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+h2{
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+h1{
+    font-family: 'Akaya Kanadaka', cursive;
+}
